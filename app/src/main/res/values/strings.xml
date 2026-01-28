@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Scroll block</string>
+    <string name="accessibility_service_description">
+        Blocks scrolling after the first Reel or Short
+    </string>
+
+</resources>
